@@ -8,3 +8,8 @@
     color: rgb(black, black, black);
     background-color: #ffff00;
 }
+
+.button-style {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
